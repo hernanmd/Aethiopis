@@ -1,0 +1,14 @@
+{
+	"category" : "Aethiopis-Logger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HernanMoralesDurand 12/25/2014 13:39",
+	"instvars" : [
+		 ],
+	"name" : "AethLogger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Aethiopis-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HernanMoralesDurand 2/12/2014 23:06",
+	"instvars" : [
+		 ],
+	"name" : "AethMenuStyledPage",
+	"pools" : [
+		 ],
+	"super" : "AethStyledPage",
+	"type" : "normal" }

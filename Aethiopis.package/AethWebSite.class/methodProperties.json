@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"delimiter" : "HernanMoralesDurand 12/9/2013 19:23" },
+	"instance" : {
+		"printHtmlList:" : "HernanMoralesDurand 12/9/2013 09:52",
+		"printLog4s" : "HernanMoralesDurand 12/28/2013 21:52",
+		"sendEmailFrom:to:subject:body:smtpServer:" : "HernanMoralesDurand 2/24/2014 10:42",
+		"smtpServer" : "HernanMoralesDurand 2/24/2014 00:01" } }

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"appUseAutologin" : "HernanMoralesDurand 2/18/2014 12:30",
+		"canRegister:" : "HernanMoralesDurand 2/18/2014 12:28",
+		"checkPoint" : "HernanMoralesDurand 2/18/2014 12:29",
+		"checkPoint:" : "HernanMoralesDurand 2/18/2014 12:29",
+		"createCandidate:" : "HernanMoralesDurand 2/18/2014 12:30",
+		"handleFailedLogin:" : "HernanMoralesDurand 2/18/2014 12:32",
+		"handleFailedRegistration:" : "HernanMoralesDurand 2/18/2014 12:31",
+		"hasValidUser" : "HernanMoralesDurand 2/18/2014 12:29",
+		"isValidPendingRegistrationId:" : "HernanMoralesDurand 2/18/2014 12:29",
+		"login:password:" : "HernanMoralesDurand 2/18/2014 12:31",
+		"loginAdmin:password:" : "HernanMoralesDurand 2/18/2014 12:29",
+		"loginExceptions" : "HernanMoralesDurand 2/18/2014 12:29",
+		"logout" : "HernanMoralesDurand 2/18/2014 12:30",
+		"registerCandidate:" : "HernanMoralesDurand 2/18/2014 12:30",
+		"registerCandidateAsUser:" : "HernanMoralesDurand 2/18/2014 12:30",
+		"registrationId" : "HernanMoralesDurand 2/18/2014 12:31",
+		"retrievalId" : "HernanMoralesDurand 2/18/2014 12:31",
+		"setDeploymentCheckPoint" : "HernanMoralesDurand 2/18/2014 12:31",
+		"setRegisterCheckPoint" : "HernanMoralesDurand 2/18/2014 12:31",
+		"userByEmail:" : "HernanMoralesDurand 2/18/2014 12:30",
+		"username" : "HernanMoralesDurand 2/18/2014 12:30",
+		"username:" : "HernanMoralesDurand 2/18/2014 12:30" } }

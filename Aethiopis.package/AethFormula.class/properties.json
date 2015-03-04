@@ -1,0 +1,14 @@
+{
+	"category" : "Aethiopis-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"formula" ],
+	"name" : "AethFormula",
+	"pools" : [
+		 ],
+	"super" : "AethMenuStyledPage",
+	"type" : "normal" }

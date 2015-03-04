@@ -1,0 +1,14 @@
+{
+	"category" : "Aethiopis-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HernanMoralesDurand 2/18/2014 12:27",
+	"instvars" : [
+		"checkPoint" ],
+	"name" : "AethASSession",
+	"pools" : [
+		 ],
+	"super" : "AethSession",
+	"type" : "normal" }

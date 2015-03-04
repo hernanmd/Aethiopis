@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultMailer" : "HernanMoralesDurand 2/12/2014 23:42",
+		"dummyMailer" : "HernanMoralesDurand 2/12/2014 23:42" },
+	"instance" : {
+		"execCommand:" : "HernanMoralesDurand 4/1/2014 12:38",
+		"sendFrom:to:subject:message:smtpServer:" : "HernanMoralesDurand 12/21/2013 15:20",
+		"smptServer" : "HernanMoralesDurand 2/23/2014 23:34",
+		"smptServer:" : "HernanMoralesDurand 2/23/2014 23:34" } }

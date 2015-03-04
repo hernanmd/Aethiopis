@@ -1,0 +1,14 @@
+{
+	"category" : "Aethiopis-Mail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "AethDummyMailerMethod",
+	"pools" : [
+		 ],
+	"super" : "AethMailerMethod",
+	"type" : "normal" }

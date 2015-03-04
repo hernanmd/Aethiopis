@@ -1,0 +1,1 @@
+Abstract class for site grouping common behavior for all pages

@@ -1,0 +1,14 @@
+{
+	"category" : "Aethiopis-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AethOptions",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "normal" }
